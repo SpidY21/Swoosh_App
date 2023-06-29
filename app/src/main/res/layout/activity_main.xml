@@ -81,6 +81,8 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/swoosh_button"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/colorAccent"
         android:fontFamily="@font/montserrat"
         android:text="Get Started"
         android:textSize="18sp"
